@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "c6d2",
+      "name": "priya pachadi1234",
+      "email": "priyar@gmail.com"
+    },
+    {
+      "id": "40fa",
+      "name": "vikas",
+      "email": "vikas@email.com"
+    },
+    {
+      "id": "8eab",
+      "name": [
+        "fbcvsdvaxcss"
+      ],
+      "email": [
+        "asc"
+      ]
+    },
+    {
+      "id": "2bb6",
+      "name": [
+        "sai krishna"
+      ],
+      "email": [
+        "sai@email.com"
+      ]
+    },
+    {
+      "id": "e004",
+      "name": [
+        "gdba"
+      ],
+      "email": [
+        "ijbiwe@email.com"
+      ]
+    }
+  ]
+}
